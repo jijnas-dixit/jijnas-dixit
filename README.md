@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jijnas-dixit
-- 👀 I’m interested in Coding,Maths and Music
-- 🌱 I’m currently learning C language.
+- 👀 I’m interested in BLockchain and CyberSecurity
+- 🌱 I’m currently exploring blockchain.
 
 <!---
 jijnas-dixit/jijnas-dixit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
